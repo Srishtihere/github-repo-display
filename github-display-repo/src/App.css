@@ -1,0 +1,13 @@
+.background{
+  background-color: rgba(0, 0, 0, 0.539);
+  border-radius: 5px;
+}
+
+.size{
+  border: 3px solid black;
+  border-radius: 3px;
+  width: 1200px;
+  height: 280px;
+  overflow-y:auto;
+  
+}
